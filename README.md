@@ -1,4 +1,4 @@
-# 📊 Data Pipeline – APIs + CSV → MySQL → Power BI
+# 📊 Data Pipeline – APIs + CSV → MySQL → Power BI (WIP)
 
 Este projeto tem como objetivo **capturar, processar e armazenar dados provenientes de múltiplas APIs e arquivos CSV**, inserindo-os em um banco **MySQL**, para posterior consumo e modelagem no **Power BI**.
 
